@@ -1,4 +1,4 @@
-password = "admin123"
+password = "admin1234"
 
 def x(a,b,c,d,e,f,g):
     eval(input("Enter code: "))
